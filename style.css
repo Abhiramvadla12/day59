@@ -1,0 +1,11 @@
+button{
+    padding: 3vh;
+    margin: 1vw;
+    border-radius: 10px;
+}
+#result{
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 2000px;
+}
